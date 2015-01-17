@@ -1,0 +1,21 @@
+{
+    "name" : "Faryshta/gwork",
+    "description" : "Yii2 module for Work Procedures and Bussiness schemas",
+    "keywords" : ["yii2", "bussiness", "gwork", "procedure"],
+    "type" : "yii2-module",
+    "license" : "BSD-3-Clause",
+		"authors" : [
+        {
+            "name" : "Angel (Faryshta) Guevara",
+            "email" : "angeldelcaos@gmail.com"
+        }
+    ],
+    "require" : {
+        "yiisoft/yii2" : "*"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Faryshta\\gwork\\" : ""
+        }
+    }
+}
